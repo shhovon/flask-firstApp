@@ -142,6 +142,11 @@ dmypy.json
 # profiling data
 .prof
 
+*.weights
+*.mp4
+*.avi
+
+
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 .Python
